@@ -5,9 +5,10 @@ Raman Spectral Dataset of p53 Variants on Plasmonic/Metallic Substrates
 
 This dataset contains Raman spectra acquired from three variants of the p53 protein:
 
-* Wild-type (WT)
-* R175H mutant
-* R273H mutant
+* Wild-type p53: native conformation reference.
+* R175H: structural mutant commonly associated with conformational destabilization.
+* R273H: DNA-contact mutant affecting binding activity.
+
 
 Measurements were performed using four different substrates:
 
@@ -31,20 +32,6 @@ The table below summarizes the number of acquisition lines and total spectra col
 
 
 
-Protein Variants
-
-* Wild-type p53: native conformation reference.
-* R175H: structural mutant commonly associated with conformational destabilization.
-* R273H: DNA-contact mutant affecting binding activity.
-
-Substrates
-
-* Aluminum: non-plasmonic metallic reference substrate.
-* AgNP@Al: aluminum coated/decorated with silver nanoparticles.
-* AuNR@Al: aluminum decorated with gold nanorods.
-* AuNS@Al: aluminum decorated with gold nanospheres.
-
-
 This dataset may be used for:
 
 * Raman spectral comparison of protein variants
@@ -60,7 +47,7 @@ This dataset may be used for:
 
 If using this dataset in publications, please cite the associated manuscript.
 
-aren Hernández-Vidales, Juan A. Muñoz Castillo, Selene R. Islas, Andrés Rodríguez-Rodríguez, Vanesa Olivares-Illana, José M. Saniger,
+Karen Hernández-Vidales, Juan A. Muñoz Castillo, Selene R. Islas, Andrés Rodríguez-Rodríguez, Vanesa Olivares-Illana, José M. Saniger,
 Raman and SERS analytical platform with machine learning for classifying wild type p53 and hotspot mutants R175H and R273H,
 Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy,
 Volume 352,
@@ -77,5 +64,9 @@ https://doi.org/10.1016/j.saa.2026.127522.
 
 
 
-For questions regarding dataset generation, preprocessing, or collaboration, contact the dataset authors.
-karenhvidales@gmail.com
+For questions regarding dataset generation, preprocessing, or collaboration, contact the dataset authors:
+
+karen.vidales@icat.unam.mx
+jose.saniger¬@icat.unam.mx
+selene.islas@icat.unam.mx
+
