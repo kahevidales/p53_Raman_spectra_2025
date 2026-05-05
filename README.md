@@ -67,6 +67,6 @@ https://doi.org/10.1016/j.saa.2026.127522.
 For questions regarding dataset generation, preprocessing, or collaboration, contact the dataset authors:
 
 karen.vidales@icat.unam.mx
-jose.saniger¬@icat.unam.mx
+jose.saniger@icat.unam.mx
 selene.islas@icat.unam.mx
 
